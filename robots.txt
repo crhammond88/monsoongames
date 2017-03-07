@@ -1,0 +1,4 @@
+Sitemap: http://monsoongames.com/sitemap.xml
+
+User-agent: *
+Disallow: 

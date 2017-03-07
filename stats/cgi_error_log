@@ -1,0 +1,42 @@
+20141027T190811: monsoongames.com/addResult.php
+PHP Warning:  mysql_connect(): Unknown MySQL server host 'custsql-ipg53.eigbox.net' (1) in /hermes/bosoraweb150/b1033/ipg.monsoongamescom/addResult.php on line 2
+
+20141027T191331: monsoongames.com/addResult.php
+PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in /hermes/bosoraweb150/b1033/ipg.monsoongamescom/addResult.php on line 2
+
+20141027T191429: monsoongames.com/addResult.php
+PHP Warning:  mysql_connect(): Unknown MySQL server host 'monsoongames.ipagemysql.com' (1) in /hermes/bosoraweb150/b1033/ipg.monsoongamescom/addResult.php on line 2
+
+20141027T191510: monsoongames.com/addResult.php
+PHP Warning:  mysql_connect(): Access denied for user 'monsoongames'@'10.20.112.99' (using password: YES) in /hermes/bosoraweb150/b1033/ipg.monsoongamescom/addResult.php on line 2
+
+20141027T203620: monsoongames.com/addResult.php
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /hermes/bosoraweb150/b1033/ipg.monsoongamescom/addResult.php on line 14
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /hermes/bosoraweb150/b1033/ipg.monsoongamescom/addResult.php on line 15
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /hermes/bosoraweb150/b1033/ipg.monsoongamescom/addResult.php on line 16
+PHP Warning:  mysqli
+20141027T203812: monsoongames.com/addResult.php
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /hermes/bosoraweb150/b1033/ipg.monsoongamescom/addResult.php on line 14
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /hermes/bosoraweb150/b1033/ipg.monsoongamescom/addResult.php on line 15
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /hermes/bosoraweb150/b1033/ipg.monsoongamescom/addResult.php on line 16
+PHP Warning:  mysqli
+20141027T203857: monsoongames.com/addResult.php
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /hermes/bosoraweb150/b1033/ipg.monsoongamescom/addResult.php on line 14
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /hermes/bosoraweb150/b1033/ipg.monsoongamescom/addResult.php on line 15
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /hermes/bosoraweb150/b1033/ipg.monsoongamescom/addResult.php on line 16
+PHP Warning:  mysqli
+20141027T204033: monsoongames.com/addResult.php
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /hermes/bosoraweb150/b1033/ipg.monsoongamescom/addResult.php on line 14
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /hermes/bosoraweb150/b1033/ipg.monsoongamescom/addResult.php on line 15
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /hermes/bosoraweb150/b1033/ipg.monsoongamescom/addResult.php on line 16
+PHP Warning:  mysqli
+20141027T204124: monsoongames.com/addResult.php
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /hermes/bosoraweb150/b1033/ipg.monsoongamescom/addResult.php on line 14
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /hermes/bosoraweb150/b1033/ipg.monsoongamescom/addResult.php on line 15
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /hermes/bosoraweb150/b1033/ipg.monsoongamescom/addResult.php on line 16
+PHP Warning:  mysqli
+20141027T204243: monsoongames.com/addResult.php
+PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, null given in /hermes/bosoraweb150/b1033/ipg.monsoongamescom/addResult.php on line 14
+PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, null given in /hermes/bosoraweb150/b1033/ipg.monsoongamescom/addResult.php on line 15
+PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, null given in /hermes/bosoraweb150/b1033/ipg.monsoongamescom/addResult.php on line 16
+PHP Warning:  mysql_rea

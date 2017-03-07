@@ -1,0 +1,265 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 201407 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2540                
+POS_VISITOR 3271                
+POS_DAY 3840                
+POS_DOMAIN 4104                
+POS_LOGIN 4330                
+POS_ROBOT 4485                
+POS_WORMS 4792                
+POS_EMAILSENDER 4923                
+POS_EMAILRECEIVER 5066                
+POS_SESSION 5142                
+POS_SIDER 5289                
+POS_FILETYPES 5425                
+POS_OS 5491                
+POS_BROWSER 5570                
+POS_SCREENSIZE 5682                
+POS_UNKNOWNREFERER 5756                
+POS_UNKNOWNREFERERBROWSER 5872                
+POS_ORIGIN 5983                
+POS_SEREFERRALS 6113                
+POS_PAGEREFS 6268                
+POS_SEARCHWORDS 6477                
+POS_KEYWORDS 6629                
+POS_MISC 2204                
+POS_ERRORS 6688                
+POS_CLUSTER 4186                
+POS_SIDER_404 6797                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140801040159 78 12976 36950069678
+FirstTime 20140725134653
+LastTime 20140731135924
+LastUpdate 20140824214956 78 0 77 0 0
+TotalVisits 15                  
+TotalUnique 13                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 13                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 1 261
+1 0 0 0 0 0 0
+2 0 0 0 2 2 1879
+3 1 1 1112 0 0 0
+4 0 0 0 4 4 3758
+5 1 1 1112 0 0 0
+6 0 0 0 6 6 5637
+7 1 1 1112 6 6 5637
+8 1 1 1112 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 2 2 1879
+11 0 0 0 3 3 2301
+12 1 1 1112 3 3 2140
+13 6 6 6672 14 14 11083
+14 0 0 0 1 1 767
+15 0 0 0 0 0 0
+16 1 1 1112 2 2 1879
+17 0 0 0 2 2 2224
+18 2 2 2224 7 7 6404
+19 2 2 2224 2 2 1879
+20 0 0 0 1 1 1112
+21 0 0 0 1 1 1112
+22 0 0 0 3 3 2991
+23 0 0 0 1 1 767
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 13
+108.163.224.114 2 2 2224 20140726183432
+107.6.137.74 2 2 2224 20140730133644
+96.242.31.228 2 2 2224 20140729190404
+184.154.248.106 1 1 1112 20140728133953
+162.220.58.244 1 1 1112 20140728183202
+46.246.45.95 1 1 1112 20140725163931
+69.175.59.186 1 1 1112 20140731135924
+184.154.249.74 1 1 1112 20140727134402
+54.214.171.4 1 1 1112 20140730053248
+198.178.124.47 1 1 1112 20140727125228
+217.146.251.22 1 1 1112 20140727033629
+54.211.7.95 1 1 1112 20140728072641
+38.100.21.64 1 1 1112 20140728083234
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 7
+20140725 2 2 2224 2
+20140726 1 1 1112 1
+20140727 3 3 3336 3
+20140728 4 4 4448 4
+20140729 3 3 3336 2
+20140730 2 2 2224 2
+20140731 1 1 1112 1
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 16 16 17792
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+bot[+:,\.\;\/\\-] 14 15568 20140731161946 0
+baiduspider 4 4448 20140730223442 0
+yandex 2 2224 20140731043226 0
+surveybot 1 1112 20140726070632 0
+crawl 1 1112 20140730224325 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 15
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 16 17792 15 15
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 16 17792 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 4
+macosx 3
+win2003 1
+Unknown 2
+win2008 10
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 6
+firefox25.0 1
+msie9.0 8
+chrome 3
+Unknown 2
+msie7.0 1
+safari 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+panscient.com 20140729190404
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+panscient.com 20140729190404
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 6 6
+From1 0 0
+From2 7 7
+From3 2 2
+From4 1 1
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 7 7
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://www.templatesource.net 1 1
+http://wehelphere.info 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 1 1112
+406 2 522
+404 36 27612
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 7
+/node/11 1 -
+/wp-login.php 1 -
+/th1s_1s_a_4o4.html 7 http://www.google.com/url
+/robots.txt 24 -
+/administrator/ 1 -
+/admin.php 1 -
+/node/9 1 -
+END_SIDER_404

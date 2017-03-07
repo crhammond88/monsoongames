@@ -1,0 +1,330 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 201703 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2539                
+POS_VISITOR 7178                
+POS_DAY 8805                
+POS_DOMAIN 3207                
+POS_LOGIN 3437                
+POS_ROBOT 3592                
+POS_WORMS 4177                
+POS_EMAILSENDER 4308                
+POS_EMAILRECEIVER 4451                
+POS_SESSION 9029                
+POS_SIDER 9186                
+POS_FILETYPES 4586                
+POS_OS 4763                
+POS_BROWSER 4893                
+POS_SCREENSIZE 5094                
+POS_UNKNOWNREFERER 5168                
+POS_UNKNOWNREFERERBROWSER 5579                
+POS_ORIGIN 5826                
+POS_SEREFERRALS 5962                
+POS_PAGEREFS 6129                
+POS_SEARCHWORDS 6562                
+POS_KEYWORDS 6714                
+POS_MISC 2203                
+POS_ERRORS 6773                
+POS_CLUSTER 3293                
+POS_SIDER_404 6869                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170307004028 1274 246627 0
+FirstTime 20170301043233
+LastTime 20170307004027
+LastUpdate 20170307032253 1274 1162 112 0 0
+TotalVisits 40                  
+TotalUnique 36                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 40                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 29 2310425 4 4 30459
+1 2 2 16722 8 8 122893
+2 0 0 0 3 4 16030
+3 3 3 18250 7 8 107908
+4 2 30 236994 6 6 31916
+5 1 1 15194 10 11 2062048
+6 1 1 15194 6 7 33035
+7 2 2 30388 2 3 1923961
+8 0 0 0 3 4 43769
+9 4 4 60776 2 3 13310
+10 1 2 1939013 0 1 1923819
+11 2 2 3056 5 6 1941532
+12 2 20 2561141 2 2 16722
+13 13 22 183362 47 56 812838
+14 2 29 2706621 3 3 30388
+15 2 2 30388 0 0 0
+16 1 1 17576 1 1 0
+17 1 29 2704737 1 1 15194
+18 0 0 0 3 3 28172
+19 4 4 60961 1 1 0
+20 1 1 1528 0 0 0
+21 0 0 0 6 6 27760
+22 1 1 1528 3 3 48149
+23 3 28 19575485 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 49 213 32489339
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+spider 57 812838 20170306133614 7
+bot[+:,\.\;\/\\-] 27 90828 20170306212105 14
+baiduspider 7 79414 20170306170150 2
+crawl 7 122893 20170301054350 0
+robot 6 7710541 20170304105251 1
+msnbot\-media 5 75537 20170305224628 0
+no_user_agent 4 31916 20170306045118 1
+googlebot 4 44534 20170303212024 0
+unknown 4 142 20170305025246 4
+yandex 4 62255 20170306034944 2
+slurp 2 15265 20170305033632 1
+mj12bot 2 15194 20170304143157 1
+sogou 4 45653 20170306044606 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 13 133100 0 0
+php 2 3056 0 0
+png 110 13900708 0 0
+html 41 537061 0 0
+jpg 41 826227 0 0
+txt 4 6112 0 0
+Unknown 2 17083075 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 9
+winlong 2
+winxp 1
+winnt 169
+linuxubuntu 1
+winvista 1
+linux 1
+macosx 3
+Unknown 5
+win2008 30
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 12
+msie8.0 1
+mozilla 37
+chrome 143
+firefox2.0.0.1 1
+netscape4.72 3
+firefox51.0 2
+firefox3.6.3 1
+lynx 1
+msie9.0 19
+Unknown 2
+firefox35.0 1
+firefox3.6.8 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_(compatible;_Daum/4.1;__http://cs.daum.net/faq/15/4118.html?faqId=28966) 20170303050517
+Mechanize/2.7.2_Ruby/2.0.0p481_(http://github.com/sparklemotion/mechanize/) 20170306155850
+DowntimeDetector/1.0_(_http://downforeveryoneorjustme.com) 20170303093121
+Lynx/2.8.8dev.3_libwww-FM/2.14_SSL-MM/1.4.1 20170301124353
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Mechanize/2.7.2_Ruby/2.0.0p481_(http://github.com/sparklemotion/mechanize/) 20170306155850
+DowntimeDetector/1.0_(_http://downforeveryoneorjustme.com) 20170303093121
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 28 31
+From1 0 0
+From2 13 21
+From3 6 6
+From4 2 155
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 12 20
+yahoo 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+http://www.5118.com/seo/www.monsoongames.com 1 1
+http://www.bing.com/search 1 1
+https://www.bing.com 1 1
+http://w3data.co/profile.php 1 1
+http://forums.indiegamer.com/threads/war-of-the-necromancers-browser-based-single-player-battle-arena-game-unity.38151/ 1 1
+http://hundejo.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 7 122893
+406 1 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 40
+107.6.137.74 6 12 104692 20170304133429
+108.163.224.114 4 6 46754 20170305133816
+78.72.3.85 3 28 19575485 20170305233419
+184.154.248.106 2 3 16722 20170306133611
+96.39.179.86 2 58 5015162 20170307004027 20170307004027 /
+220.227.234.129 2 2 3056 20170306113648
+203.133.168.9 1 1 15194 20170303050517
+202.46.53.57 1 1 15194 20170302130900
+163.172.142.15 1 1 15194 20170303190528
+219.145.144.65 1 1 15194 20170304015411
+192.151.152.122 1 1 1528 20170302222409
+54.86.213.190 1 1 15194 20170304074116
+202.46.57.25 1 1 15194 20170303153248
+45.32.130.173 1 1 15194 20170306064005
+161.139.102.114 0 1 75102 
+188.165.208.29 1 1 1528 20170302014130
+80.64.173.162 1 1 15379 20170301192904
+203.133.170.166 1 1 15194 20170302072707
+74.85.208.10 1 1 15194 20170304033346
+161.139.102.113 0 9 267325 
+161.139.102.115 0 2 42723 
+104.196.47.217 1 1 8360 20170301124353
+14.211.203.132 1 1 15194 20170306092132
+54.188.100.34 1 1 15194 20170306155850
+46.254.184.102 1 29 221800 20170301043233
+54.149.149.21 1 1 15194 20170303093121
+201.86.95.6 1 1 15194 20170303141658
+172.245.236.179 1 1 15194 20170303093119
+62.212.68.156 1 1 15194 20170303190901
+192.187.109.242 1 1 1528 20170304035351
+213.47.174.146 0 1 1923819 
+173.208.244.82 1 1 1528 20170305205250
+5.188.211.241 1 1 15194 20170301190640
+24.184.146.171 1 28 2691427 20170302142224
+176.31.64.186 1 1 17576 20170302161045
+63.141.244.250 1 1 1528 20170304032133
+202.46.48.197 1 1 15194 20170303103939
+34.248.121.27 1 1 15194 20170305044643
+178.62.7.178 1 1 15194 20170303093120
+161.139.102.112 1 7 2167631 20170306125106
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 7
+20170301 6 35 290765 5
+20170302 8 37 4682988 7
+20170303 11 12 166778 10
+20170304 7 11 106576 6
+20170305 7 33 19608929 4
+20170306 9 56 5322878 7
+20170307 1 29 2310425 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 1
+0s-30s 38
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 12
+/ 31 464180 31 24
+/th1s_1s_a_4o4.html 6 9168 0 6
+/wotn-beta.html 3 46137 2 1
+/blog/xmlrpc.php 1 1528 1 0
+/\"%20+%20windowHref%20+%20\"view=mobile 1 1528 1 1
+/about.html 1 17576 1 1
+/wp-content/plugins/smart-videos/readme.txt 1 1528 1 1
+/xmlrpc.php 1 1528 0 1
+/wp-content/plugins/seo-keyword-page/readme.txt 1 1528 1 1
+/wp-content/plugins/wp-handy-lightbox/readme.txt 1 1528 1 1
+/v1.1.0.unity3d 1 17081547 0 1
+/wp-content/plugins/share-buttons-wp/readme.txt 1 1528 1 1
+END_SIDER
